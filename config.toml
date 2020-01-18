@@ -33,7 +33,7 @@ canonifyurls = true
 
 [author]
   name = "Meghan P Keating"
-  bio = "I am currently a masters student in the Department of Natural Resources and Environmental Science at University of Nevada, Reno looking at the ecological drivers of animal movement and behavior using contemporary statistical movement models and GPS telemetry movement data of mule deer in the Mohave Desert Preserve. I have participated in research at U.S. Geological Survey's Western Ecological Research Center focusing on duck nest survival, duckling brood pond use and survival, and mesopredator interactions with nesting waterfowl. I study movement ecology, habitat use, and predator-prey interactions."
+  bio = "I am currently a masters student in the Department of Natural Resources and Environmental Science at University of Nevada, Reno looking at the ecological drivers of animal movement and behavior using contemporary statistical movement models and GPS telemetry movement data of mule deer in the Mohave Desert Preserve. I study movement ecology, habitat use, and predator-prey interactions."
   job = "Masters Student at University of Nevada, Reno"
   location = "Reno, NV"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
