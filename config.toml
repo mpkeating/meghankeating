@@ -177,25 +177,6 @@ canonifyurls = true
   # [[params.customJS]]
   #   src = "js/myscript.js"
 
-  # Sharing options
-  # Comment and uncomment to enable or disable sharing options
-  # If you wanna add a sharing option, read user documentation :
-  # Tranquilpeak configuration > Theme configuration > sharing-options
-  [[params.sharingOptions]]
-    name = "Research Gate"
-    icon = "researchgate"
-    url = "https://www.researchgate.net/profile/Meghan_Keating"
-
-  [[params.sharingOptions]]
-    name = "Williams Lab"
-    icon = "University"
-    url = "https://www.perrywilliams.us/?page_id=461"
-
-  [params.header.rightLink]
-    class = ""
-    icon = ""
-    url = "/#about"
-
   # Customize link of author avatar in sidebar
   # [params.sidebar.profile]
   #   url = "/#about"
