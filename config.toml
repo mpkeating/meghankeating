@@ -80,6 +80,13 @@ canonifyurls = true
 
 [[menu.links]]
   weight = 1
+  identifier = "university"
+  name = "Current Lab"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-university\"></i>"
+  url = "https://www.perrywilliams.us/?page_id=461"
+
+[[menu.links]]
+  weight = 1
   identifier = "github"
   name = "GitHub"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-github\"></i>"
