@@ -1,12 +1,8 @@
 ---
-title: Introduction
+title: About Me
 author: Meghan
 date: '2020-01-17'
-slug: introduction
-categories:
-  - R
-tags:
-  - fun
+slug: about-me
 keywords:
   - tech
 ---

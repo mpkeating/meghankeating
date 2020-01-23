@@ -87,10 +87,10 @@ canonifyurls = true
 
 [[menu.links]]
   weight = 1
-  identifier = "github"
+  identifier = "GitHub"
   name = "GitHub"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-github\"></i>"
-  url = "https://github.com/mpkeating"
+  url = "https://www.github.com/mpkeating"
 
 [[menu.misc]]
   weight = 1
